@@ -8,6 +8,7 @@
 import UIKit
 var main : String = "this is main branch"
 var main1 : String = "this is main branch"
+var V2 : String = "this is V2 branch"
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
